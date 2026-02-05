@@ -225,9 +225,9 @@ Atleta de endurance (triatlo, maratonas e ultramaratonas), com vivência em prov
 
 ## Contato
 
-📧 Email: [seuemail@dominio.com](mailto:seuemail@dominio.com)
-🔗 LinkedIn: linkedin.com/in/seuperfil
-💻 GitHub (opcional): github.com/seuperfil
+📧 Email: [billsombrio@gmail.com](mailto:billsombrio@gmail.com)
+🔗 LinkedIn: linkedin.com/in/billsombrio
+💻 GitHub: github.com/billsombrio
 
 ---
 
